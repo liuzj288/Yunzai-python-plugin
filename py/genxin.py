@@ -15,7 +15,7 @@ if not os.path.exists(FILE_PATH+'/update.json'):
         update=dict()
         py=dict()
         py['date']=pcr_now
-        py['url']='https://gitee.com/linglinglingling-python/python-plugin'
+        py['url']='https://github.com/liuzj288/Yunzai-python-plugin'
         update['py']=py
         yunzai=dict()
         yunzai['date']=pcr_now
